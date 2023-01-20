@@ -1,0 +1,37 @@
+body {
+    font-weight: bold;
+}
+
+.calculator {
+    width: 500px;
+    height: 540px;
+    border: 1px solid black;
+    margin: 7% auto;
+}
+
+.screen {
+    width: 440px;
+    height: 100px;
+    margin: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    font-size: 40px;
+    text-align: right;
+}
+
+table {
+    width: 440px;
+    height: 200px;
+    margin: 3% auto;
+}
+
+input {
+    height: 62px;
+    width: 100px;
+}
+
+.ans {
+    height: 270px;
+    width: 100px;
+}
